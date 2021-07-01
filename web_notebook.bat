@@ -1,3 +1,1 @@
-C:\ProgramData\Miniconda3\Scripts\activate.bat deeplearing
-
-jupyter notebook src/MA_cleaning.ipynb 
+conda activate deeplearing && jupyter notebook src/MA_cleaning.ipynb --ip 0.0.0.0
