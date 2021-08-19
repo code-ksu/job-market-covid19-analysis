@@ -1,0 +1,1 @@
+conda activate deep && jupyter notebook src/MA_cleaning.ipynb --ip 0.0.0.0
